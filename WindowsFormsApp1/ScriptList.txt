@@ -1,0 +1,7 @@
+﻿Written by : Lai Yu Ting
+Latest update : 20/9/2020 19:21
+
+Script : 
+
+Script_1 = GS
+Script_2 = 蓋亞
